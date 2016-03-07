@@ -1,0 +1,4 @@
+c:\users\oleg\documents\visual studio 2012\Projects\Cources06\Cources06\bin\Debug\Cources06.exe
+c:\users\oleg\documents\visual studio 2012\Projects\Cources06\Cources06\bin\Debug\Cources06.pdb
+c:\users\oleg\documents\visual studio 2012\Projects\Cources06\Cources06\obj\Debug\Cources06.exe
+c:\users\oleg\documents\visual studio 2012\Projects\Cources06\Cources06\obj\Debug\Cources06.pdb
